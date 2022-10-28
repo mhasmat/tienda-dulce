@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cupcakes",
+    "precio": 500,
+    "minimo": 6,
+    "descripcion": "saraza",
+    "img": "./img/cupcakes.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Alfajorcitos",
+    "precio": 100,
+    "minimo": 12,
+    "descripcion": "saraza",
+    "img": "./img/alfajorcitos.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Petit Fours",
+    "precio": 800,
+    "minimo": 6,
+    "descripcion": "saraza",
+    "img": "./img/petitFours.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Cookies",
+    "precio": 900,
+    "minimo": 12,
+    "descripcion": "saraza",
+    "img": "./img/cookies.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cafecito",
+    "precio": 550,
+    "minimo": 1,
+    "descripcion": "café de autor",
+    "img": "./img/cafecito.jpg"
+  }
+]
